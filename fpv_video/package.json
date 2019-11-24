@@ -1,0 +1,12 @@
+{
+  "name": "DroneElie500",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "serialport":"7.1.5",
+    "python-shell": "1.0.7",
+    "mavlink":"1.0.1"
+  }
+}
